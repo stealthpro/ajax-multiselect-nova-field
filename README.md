@@ -54,10 +54,6 @@ Values saved as json string in a column.
 | `maxOptions`   | int $max             | required | Optional option. Set the maximal number of selections and limit returned models                             | 
 
 
-## Authors
-
-* **Alex Veikin** - [Stealthpro](https://github.com/stealthpro)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
